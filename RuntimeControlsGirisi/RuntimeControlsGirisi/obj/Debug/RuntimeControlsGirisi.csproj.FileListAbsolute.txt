@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\YenidenC#\4.21.2021\RuntimeControlsGirisi\RuntimeControlsGirisi\bin\Debug\RuntimeControlsGirisi.exe.config
+C:\Users\User\Desktop\YenidenC#\4.21.2021\RuntimeControlsGirisi\RuntimeControlsGirisi\bin\Debug\RuntimeControlsGirisi.exe
+C:\Users\User\Desktop\YenidenC#\4.21.2021\RuntimeControlsGirisi\RuntimeControlsGirisi\bin\Debug\RuntimeControlsGirisi.pdb
+C:\Users\User\Desktop\YenidenC#\4.21.2021\RuntimeControlsGirisi\RuntimeControlsGirisi\obj\Debug\RuntimeControlsGirisi.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\YenidenC#\4.21.2021\RuntimeControlsGirisi\RuntimeControlsGirisi\obj\Debug\RuntimeControlsGirisi.Form1.resources
+C:\Users\User\Desktop\YenidenC#\4.21.2021\RuntimeControlsGirisi\RuntimeControlsGirisi\obj\Debug\RuntimeControlsGirisi.Properties.Resources.resources
+C:\Users\User\Desktop\YenidenC#\4.21.2021\RuntimeControlsGirisi\RuntimeControlsGirisi\obj\Debug\RuntimeControlsGirisi.csproj.GenerateResource.cache
+C:\Users\User\Desktop\YenidenC#\4.21.2021\RuntimeControlsGirisi\RuntimeControlsGirisi\obj\Debug\RuntimeControlsGirisi.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\YenidenC#\4.21.2021\RuntimeControlsGirisi\RuntimeControlsGirisi\obj\Debug\RuntimeControlsGirisi.exe
+C:\Users\User\Desktop\YenidenC#\4.21.2021\RuntimeControlsGirisi\RuntimeControlsGirisi\obj\Debug\RuntimeControlsGirisi.pdb
